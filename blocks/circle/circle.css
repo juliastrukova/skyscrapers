@@ -1,0 +1,6 @@
+.circle {
+  width: 475px;
+  height: 475px;
+  overflow: hidden;
+  position: relative;
+}

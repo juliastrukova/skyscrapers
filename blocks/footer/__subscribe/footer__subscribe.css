@@ -1,0 +1,15 @@
+.footer__subscribe {
+  grid-row: 1;
+  grid-column: 2;
+  margin: 136px 510px auto auto;
+  background: rgba(62, 79, 204, 0.79);
+  border-radius: 3.87156px;
+  padding: 7px 25px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  color: #FFFFFF;
+  cursor: pointer;
+}

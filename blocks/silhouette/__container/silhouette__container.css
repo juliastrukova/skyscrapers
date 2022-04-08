@@ -1,0 +1,5 @@
+.silhouette__container {
+  display: grid;
+  grid-template-columns: 445px 1fr;
+  grid-column-gap: 150px;
+}

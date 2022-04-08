@@ -1,0 +1,5 @@
+.footer__image {
+  grid-row: 1/2;
+  grid-column: 1;
+  margin: 41px 20px 40px 465px;
+}

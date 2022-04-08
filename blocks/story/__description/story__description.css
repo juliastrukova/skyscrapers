@@ -1,0 +1,9 @@
+.story__description {
+  max-width: 247px;
+  margin: auto auto 0 20px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  padding-bottom: 20px;
+  border-bottom: 0.8px solid #000000;
+}
