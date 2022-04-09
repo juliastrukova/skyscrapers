@@ -15,7 +15,7 @@
 Julia Strukova
 
 ## Сайт:
-https://github.com/juliastrukova/skyscrapers
+https://juliastrukova.github.io/skyscrapers/
 
 
 
@@ -37,4 +37,4 @@ Landing page made according to the layout from Figma.
 Julia Strukova
 
 ## url:
-https://github.com/juliastrukova/skyscrapers
+https://juliastrukova.github.io/skyscrapers/
