@@ -1,42 +1,40 @@
-#Как различать сталинские высотки
+# Как различать сталинские высотки
 Лендинг выполненный по макету из Figma.
 
-##Стэк
+## Стэк
 * HTML
 * CSS
 
-##Ревлизовано
+## Реализовано
 * Flexbox layout
 * Grid-layot
 * The Nested BEM file stucture
 
 
-##Автор
+## Автор
 Julia Strukova
 
-##url:
+## Сайт:
 https://github.com/juliastrukova/skyscrapers
 
 
 
 
-
-
-#How to distinguish Stalin's skyscrapers
+# How to distinguish Stalin's skyscrapers
 Landing page made according to the layout from Figma.
 
-##Stack
+## Stack
 * HTML
 * CSS
 
-##Ревлизовано
+## Realize
 * Flexbox layout
 * Grid-layot
 * The Nested BEM file stucture
 
 
-##Author
+## Author
 Julia Strukova
 
-##url:
-https://juliastrukova.github.io/skyscrapers/
+## url:
+https://github.com/juliastrukova/skyscrapers
